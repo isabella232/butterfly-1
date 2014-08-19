@@ -1,5 +1,7 @@
 # ƸӜƷ butterfly
 
+Based on https://github.com/paradoxxxzero/butterfly
+
 ![](http://paradoxxxzero.github.io/assets/butterfly_1.gif)
 
 
